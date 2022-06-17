@@ -1,20 +1,20 @@
 [
   {
-    "name": "Blog",
+    "name": "jaswdr.dev",
     "url": "https://jaswdr.dev/",
     "icon": "https://favicons.githubusercontent.com/jaswdr.dev",
-    "slug": "blog",
+    "slug": "jaswdr-dev",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 206,
-    "timeDay": 206,
-    "timeWeek": 206,
-    "timeMonth": 206,
-    "timeYear": 206,
+    "time": 282,
+    "timeDay": 282,
+    "timeWeek": 282,
+    "timeMonth": 282,
+    "timeYear": 282,
     "dailyMinutesDown": {}
   }
 ]
