@@ -3,7 +3,7 @@ owner: jaswdr # Your GitHub organization or username, where this repository live
 repo: blog_uptime # The name of this repository
 
 sites:
-  - name: Blog
+  - name: jaswdr.dev
     url: https://jaswdr.dev/
     maxResponseTime: 300
 
