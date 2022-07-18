@@ -4,17 +4,19 @@
     "url": "https://jaswdr.dev/",
     "icon": "https://favicons.githubusercontent.com/jaswdr.dev",
     "slug": "jaswdr-dev",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 171,
-    "timeDay": 206,
-    "timeWeek": 180,
-    "timeMonth": 164,
-    "timeYear": 171,
-    "dailyMinutesDown": {}
+    "time": 316,
+    "timeDay": 2587,
+    "timeWeek": 778,
+    "timeMonth": 319,
+    "timeYear": 316,
+    "dailyMinutesDown": {
+      "2022-07-18": 0
+    }
   }
 ]
