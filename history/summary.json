@@ -2,7 +2,7 @@
   {
     "name": "jaswdr.dev",
     "url": "https://jaswdr.dev/",
-    "icon": "https://favicons.githubusercontent.com/jaswdr.dev",
+    "icon": "https://icons.duckduckgo.com/ip3/jaswdr.dev.ico",
     "slug": "jaswdr-dev",
     "status": "up",
     "uptime": "100.00%",
@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 184,
-    "timeWeek": 161,
-    "timeMonth": 138,
+    "timeDay": 142,
+    "timeWeek": 189,
+    "timeMonth": 135,
     "timeYear": 166,
     "dailyMinutesDown": {}
   }
