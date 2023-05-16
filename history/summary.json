@@ -4,17 +4,17 @@
     "url": "https://jaswdr.dev/",
     "icon": "https://icons.duckduckgo.com/ip3/jaswdr.dev.ico",
     "slug": "jaswdr-dev",
-    "status": "degraded",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 530,
-    "timeWeek": 380,
-    "timeMonth": 303,
-    "timeYear": 363,
+    "time": 362,
+    "timeDay": 489,
+    "timeWeek": 370,
+    "timeMonth": 300,
+    "timeYear": 362,
     "dailyMinutesDown": {}
   }
 ]
