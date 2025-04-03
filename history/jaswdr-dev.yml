@@ -1,7 +1,7 @@
 url: https://jaswdr.dev/
-status: up
+status: degraded
 code: 200
-responseTime: 223
-lastUpdated: 2025-04-03T12:51:15.992Z
+responseTime: 600
+lastUpdated: 2025-04-03T18:34:13.223Z
 startTime: 2022-06-17T09:12:33.000Z
 generator: Upptime <https://github.com/upptime/upptime>
